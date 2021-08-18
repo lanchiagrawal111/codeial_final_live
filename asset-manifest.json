@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/codeial_final_live/static/css/main.6a9f2986.chunk.css",
+    "main.js": "/codeial_final_live/static/js/main.c521911d.chunk.js",
+    "main.js.map": "/codeial_final_live/static/js/main.c521911d.chunk.js.map",
+    "runtime-main.js": "/codeial_final_live/static/js/runtime-main.0e452ff3.js",
+    "runtime-main.js.map": "/codeial_final_live/static/js/runtime-main.0e452ff3.js.map",
+    "static/js/2.59bbd197.chunk.js": "/codeial_final_live/static/js/2.59bbd197.chunk.js",
+    "static/js/2.59bbd197.chunk.js.map": "/codeial_final_live/static/js/2.59bbd197.chunk.js.map",
+    "index.html": "/codeial_final_live/index.html",
+    "static/css/main.6a9f2986.chunk.css.map": "/codeial_final_live/static/css/main.6a9f2986.chunk.css.map",
+    "static/js/2.59bbd197.chunk.js.LICENSE.txt": "/codeial_final_live/static/js/2.59bbd197.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e452ff3.js",
+    "static/js/2.59bbd197.chunk.js",
+    "static/css/main.6a9f2986.chunk.css",
+    "static/js/main.c521911d.chunk.js"
+  ]
+}
