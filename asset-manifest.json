@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codeial_final_live/static/css/main.6a9f2986.chunk.css",
-    "main.js": "/codeial_final_live/static/js/main.c521911d.chunk.js",
-    "main.js.map": "/codeial_final_live/static/js/main.c521911d.chunk.js.map",
+    "main.js": "/codeial_final_live/static/js/main.310a6d18.chunk.js",
+    "main.js.map": "/codeial_final_live/static/js/main.310a6d18.chunk.js.map",
     "runtime-main.js": "/codeial_final_live/static/js/runtime-main.0e452ff3.js",
     "runtime-main.js.map": "/codeial_final_live/static/js/runtime-main.0e452ff3.js.map",
     "static/js/2.59bbd197.chunk.js": "/codeial_final_live/static/js/2.59bbd197.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0e452ff3.js",
     "static/js/2.59bbd197.chunk.js",
     "static/css/main.6a9f2986.chunk.css",
-    "static/js/main.c521911d.chunk.js"
+    "static/js/main.310a6d18.chunk.js"
   ]
 }
